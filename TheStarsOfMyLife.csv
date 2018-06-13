@@ -1,0 +1,14 @@
+firstname,yearofbirth,yearofdeath,parent 1,parent 2,child 1,child 2,child 3,child 4,date of relationship start,date of marriage,date of divorce
+Lorraine,1979,,Edward,Barbara,Leila,Zane,,,,2007,
+Mike,1978,,Walter,Maryann,Leila,Zane,,,,2007,
+Elaine,1980,,Edward,Barbara,Harvey,,,,,2009,2015
+Darren,1983,,,,Harvey,,,,,2009,2015
+Edward,1938,2011,,,Lorraine,Elaine,,,,1978,
+Barbara,1957,,Bogumila,?,Lorraine,Elaine,,,,1978,
+Bogumila,1938,,,,Barbara,Michael,Marilla,?,,1957,1961
+Barbara's father,?,?,?,?,Barbara,Michael,Marilla,,,1957,1961
+Walter,1938,2011,,,Mike,,,,,1960,
+Maryann,1940,2016,,,Mike,,,,,1960,
+Harvey,2009,,Elaine,Darren,,,,,,,
+Leila,2009,,Lorraine,Mike,,,,,,,
+Zane,2012,,Lorraine ,Mike,,,,,,,
